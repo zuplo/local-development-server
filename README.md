@@ -1,2 +1,3 @@
-# local-development-server
-Server for local development
+# Local Development Server
+
+Server for local development of a zup.
